@@ -1,0 +1,16 @@
+Z:\Creacion_archivo\Creacion_archivo\bin\Debug\Creacion_archivo.exe
+Z:\Creacion_archivo\Creacion_archivo\bin\Debug\Creacion_archivo.pdb
+Z:\Creacion_archivo\Creacion_archivo\obj\x86\Debug\Creacion_archivo.Form1.resources
+Z:\Creacion_archivo\Creacion_archivo\obj\x86\Debug\Creacion_archivo.Properties.Resources.resources
+Z:\Creacion_archivo\Creacion_archivo\obj\x86\Debug\Creacion_archivo.csproj.GenerateResource.Cache
+Z:\Creacion_archivo\Creacion_archivo\obj\x86\Debug\Creacion_archivo.exe
+Z:\Creacion_archivo\Creacion_archivo\obj\x86\Debug\Creacion_archivo.pdb
+Z:\Creacion_archivo\Creacion_archivo\obj\x86\Debug\Creacion_archivo.csprojResolveAssemblyReference.cache
+C:\Users\Dannie\Documents\Creacion_archivo\Creacion_archivo\obj\x86\Debug\Creacion_archivo.exe
+C:\Users\Dannie\Documents\Creacion_archivo\Creacion_archivo\obj\x86\Debug\Creacion_archivo.pdb
+C:\Users\Dannie\Documents\Creacion_archivo\Creacion_archivo\bin\Debug\Creacion_archivo.exe
+C:\Users\Dannie\Documents\Creacion_archivo\Creacion_archivo\bin\Debug\Creacion_archivo.pdb
+C:\Users\Dannie\Documents\Creacion_archivo\Creacion_archivo\obj\x86\Debug\Creacion_archivo.csprojResolveAssemblyReference.cache
+C:\Users\Dannie\Documents\Creacion_archivo\Creacion_archivo\obj\x86\Debug\Creacion_archivo.Form1.resources
+C:\Users\Dannie\Documents\Creacion_archivo\Creacion_archivo\obj\x86\Debug\Creacion_archivo.Properties.Resources.resources
+C:\Users\Dannie\Documents\Creacion_archivo\Creacion_archivo\obj\x86\Debug\Creacion_archivo.csproj.GenerateResource.Cache
